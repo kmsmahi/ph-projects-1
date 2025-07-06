@@ -1,9 +1,19 @@
 .p1{
-    background-color: aquamarine;
+    background-color: coral;
+    color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px 10px red;
+}
+.s1{
+    display:inline-block;
+    height: 20px;
 }
 .p2{
-    background-color:brown;
-}
-.p3{
-    background-color:rebeccapurple;
+    background-image: url('images/house_16987597.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
